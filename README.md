@@ -1,4 +1,4 @@
-# CIS 3050-05 Project 2: MS SQL Database Management System
+# MS SQL Database Management System
 
 ## Introduction
 
