@@ -30,7 +30,7 @@ Another problem I ran into was when I went to insert my own name and details for
 
 ## Conclusion
 
-The goal of this project was to create a detailed and correct database management system and I believe I achieved that with all the queries required of me. I hope this repository can be a useful reference for anyone learning about SQL and database management systems. Feel free to explore the code and reach out if you have any questions or suggestions. Happy coding!
+The goal of this project was to create a detailed and correct database management system and I believe I achieved that with all the queries required of me. I hope this repository can be a useful reference for anyone learning about SQL and database management systems. Feel free to explore the code and reach out if you have any questions or suggestions. 
 
 ## Deliverables
 
